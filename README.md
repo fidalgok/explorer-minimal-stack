@@ -44,6 +44,8 @@ npm run build
 
 ## Deployment
 
+Deployment is totally up to you. This stack is mostly for running local and experimenting with UI and UX experiences.
+
 ### Docker Deployment
 
 To build and run using Docker:
